@@ -115,7 +115,7 @@ if((a3 == a2 && a3 == a1 && a3 == a4 && a3!= "") || (a3 == a4 && a3 == a5 && a3 
 		
 }else if((c5 == b5 && c5 == a5 && c5 == d5 && c5!= "") || (c5 == d5 && c5 == e5 && c5 == e5 && c5!= "")){
 	vencedor = c5;
-//Formas Inclinadas 8		
+//Formas Diagonais 8		
 }else if((c2 == d3 && c2 == e4 && c2 == b1 && c2!= "") || (c2 == b3 && c2 == a4 && c2 == d1 && c2!= "")){
 	vencedor = c2;
 
